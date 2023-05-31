@@ -1,5 +1,5 @@
 
-# VPN Connect Script :rocket:
+# simpleVPN :rocket:
 
 This script allows you to easily connect to and disconnect from an OpenVPN server using a YAML configuration file.
 
